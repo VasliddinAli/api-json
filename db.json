@@ -1,0 +1,54 @@
+{
+  "user": [
+    {
+      "email": "vasliddinali@gmail.com",
+      "name": "Vasliddin",
+      "password": "Alijonov2005",
+      "id": 1
+    },
+    {
+      "email": "test@test.com",
+      "name": "test",
+      "password": "test123",
+      "id": 2
+    },
+    {
+      "email": "amar@gmail.com",
+      "name": "amar",
+      "password": "amar123",
+      "id": 3
+    },
+    {
+      "email": "sarder@gmail.com",
+      "name": "sarder",
+      "password": "sarder123",
+      "id": 4
+    }
+  ],
+  "resturant": [
+    {
+      "name": "Burger King",
+      "address": "Noida sector 50",
+      "contact": 11111,
+      "id": 1
+    },
+    {
+      "name": "Anor",
+      "address": "Quva",
+      "contact": "998 95 456 12 36",
+      "id": 2
+    },
+    {
+      "name": "Archa",
+      "address": "Fergana",
+      "contact": "998 94 444 60 50",
+      "id": 3
+    },
+    {
+      "name": "Olma",
+      "address": "Fergana",
+      "contact": "5689856954",
+      "id": 4
+    }
+  ]
+}
